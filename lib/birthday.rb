@@ -12,8 +12,8 @@ end
 
 def age_appropriate_birthday
   if "{age}">= 12
-    happy_birthday
+    print happy_birthday
   else
       nil
   end
-end 
+end
